@@ -3,24 +3,33 @@
 [![GitHub forks](https://img.shields.io/github/forks/BlacksCrows/Devil-Eliminate.svg)](https://github.com/BlacksCrows/Devil-Eliminate/network)
 [![GitHub stars](https://img.shields.io/github/stars/BlacksCrows/Devil-Eliminate.svg)](https://github.com/BlacksCrows/Devil-Eliminate/stargazers)
 
+**Don't be afraid if you don't see all send messages.**
 
-The following packages are required. You'll need to install the following using the
-package manager:
+- The script requires working network connection to work.
+- No balance will be deducted for using this script to send SMS/calls.
+- While doing infinite bombing use 2-3 seconds delay and 10 to 20 threads for maximum performance.
+- Don't put spaces in between phone number (Ex- 99999 99999)
+- Make sure you are using the latest version of TBomb
+- Make sure you are using Python3.
+
+
+**The following packages are required. You'll need to install the following using the
+package manager:**
 
 ```sudo apt install python3-pip```
 
-Then you need to install libraries such as:
+**Then you need to install libraries such as:**
 
 ```!pip install requests```
 
 ```!pip install colorama```
 
-Now start destroying the memory of your friends
+**Now start destroying the memory of your friends**
 
 ```
 
 ⣿⣿⣿⣿⣿⡿⠋⠁⠄⠄⠄⠈⠘⠩⢿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠻⣿⣿⣿⣿
+⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠻⣿⣿⣿⣿                    
 ⣿⣿⣿⣿⠄⠄⣀⣤⣤⣤⣄⡀⠄⠄⠄⠄⠙⣿⣿⣿
 ⣿⣿⣿⣿⡀⢰⣿⣿⣿⣿⣿⢿⠄⠄⠄⠄⠄⠹⢿⣿
 ⣿⣿⣿⣿⣿⡞⠻⠿⠟⠋⠉⠁⣤⡀⠄⠄⠄⠄⠄⠄
