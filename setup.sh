@@ -1,6 +1,6 @@
 #!/bin/bash
 # Base command (termux only!): pkg install python && apt upgrade && apt install && pip install --upgrade pip && pip install colorama && pip install requests && python pro.py
-echo "Welcome to SMSBomberPRO setup! Bomber by: ilya1391. Setup script by: fsvk74.
+echo "Welcome to SMSBomberPRO setup! Bomber by: temirovazat. Setup script by: fsvk74.
 PS3='Select your distro: '
 options=("Debian-based" "RPM-based" "Arch-based" "Slackware-based" "SuSE-based" "Gentoo-based" "Vo!d-based" "Alpine-based" "FreeBSD-based" "Termux" "Exit")
 select opt in "${options[@]}"
